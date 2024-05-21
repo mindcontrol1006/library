@@ -1,4 +1,4 @@
-# 프로젝트명: Seven Deadly Sins
+# 프로젝트명: Music Library
 
 # [ 목차 ]
 ## 1. [컨셉](#1)
