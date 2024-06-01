@@ -262,40 +262,6 @@
 
 <br>
 
-## 7주차
-
-- 금주 계획
-1. 천장 장식 모델링
-2. 레벨 디자인 진행
-- 구역 분할(여러 방)
-- 용도에 따른 방
-- 지형 바리에이션 추가
-- 기타 증축
-
-- 금주 진행 현황
-1. 천장 장식 추가 및 창문 모델링
-2. 레벨 디자인 진행
-- 방 1개 생성
-- 계단을 통한 2층 진입 구간 형성
-
-- 차주 계획
-1. 조명 애셋 모델링
-2. 레벨 디자인 진행
-- 조명 애셋 배치 및 라이팅
-
-<img src="./docs/W7_1.png">
-<img src="./docs/W7_2.png">
-<img src="./docs/W7_3.png">
-<img src="./docs/W7_4.png">
-<img src="./docs/W7_5.png">
-<img src="./docs/W7_6.png">
-<img src="./docs/W7_7.png">
-<img src="./docs/W7_8.png">
-<img src="./docs/W7_9.png">
-<img src="./docs/W7_10.png">
-
-<br>
-
 ## 8주차
 
 - 금주 계획
