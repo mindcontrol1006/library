@@ -50,7 +50,6 @@
 
 # [관련 이미지] <a name='2'></a>
 
-- 이미지
 <img src="./docs/Book_1.jpg">
 <img src="./docs/Book_2.jpg">
 <img src="./docs/BookShelf_1.jpg">
