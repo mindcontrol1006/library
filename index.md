@@ -395,3 +395,38 @@
 
 <br>
 
+## 13주차
+
+
+- 금주 계획
+1. 악기 모델링 : 하프(안쪽 방)
+2. 위습 라이팅 추가
+3. 레벨 디자인(오브젝트 배치 점검, 라이팅 보완)
+4. 시네마틱 작업
+
+- 금주 진행 현황
+1. 악기 모델링 완료 : 하프(안쪽 방)
+2. 위습 라이팅 추가 완료
+3. 레벨 디자인 (오브젝트 배치 점검, 라이팅 보완)
+4. 시네마틱 작업 완료
+
+- 차주 계획
+1. 추가적인 최적화 방법 모색
+2. 빌드 테스트 및 전시회 준비
+
+
+<img src="./docs/W13_1.png">
+<img src="./docs/W13_2.png">
+<img src="./docs/W13_3.png">
+<img src="./docs/W13_4.png">
+<img src="./docs/W13_5.png">
+<img src="./docs/W13_6.png">
+<img src="./docs/W13_7.png">
+<img src="./docs/W13_8.png">
+<img src="./docs/W13_9.png">
+<img src="./docs/W13_10.png">
+<img src="./docs/W13_11.png">
+<img src="./docs/W13_12.png">
+
+<br>
+
