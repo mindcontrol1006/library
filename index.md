@@ -7,6 +7,7 @@
 ## 4. [컨셉과 대표 이미지 기반 작품 묘사](#4)
 ## 5. ["Music Library" 구성 요소](#5)
 ## 6. [주차별 진행상황](#6)
+## 7. [최종 결과물](#7)
 
 
 
@@ -48,7 +49,7 @@
 
 <br><br>
 
-# [관련 이미지] <a name='2'></a>
+# [기획 - 관련 이미지] <a name='2'></a>
 
 <img src="./docs/Book_1.jpg">
 <img src="./docs/Book_2.jpg">
@@ -60,7 +61,7 @@
   
 <br><br>
 
-# [대표 이미지] <a name='3'></a>
+# [기획 - 대표 이미지] <a name='3'></a>
 <img src="./docs/Library_1.jpg">
 
 <br><br>
@@ -430,3 +431,22 @@
 
 <br>
 
+## 14주차
+
+- 금주 계획
+1. 추가적인 최적화 방법 모색
+2. 빌드 테스트 및 전시회 준비
+
+
+<img src="./docs/W14_1.png">
+
+<br>
+
+# [최종 결과물] <a name='7'></a>
+
+## 이미지
+
+<img src="./docs/Final_1.png">
+
+## 동영상
+https://drive.google.com/file/d/1XvGfVQs27KwUSjfhSNHSjcEJcEajBjhD/view?usp=drive_link
